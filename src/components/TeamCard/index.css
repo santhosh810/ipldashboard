@@ -1,0 +1,32 @@
+.link-card {
+  /* /* display: flex; 
+  justify-content: center;
+  align-items: center; */
+  width: 150px;
+  border: 1px solid white;
+  margin: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+
+  /* width: 100%; */
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 10px;
+  gap: 5px;
+}
+
+.card-log {
+  width: 40px;
+  height: 40px;
+  /* margin-right: px; */
+}
+.card-paragraph {
+  font-family: 'Bree Serif';
+  font-size: 12px;
+  color: white;
+  align-self: center;
+}
